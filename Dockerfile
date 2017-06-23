@@ -1,5 +1,7 @@
 FROM debian:jessie
 
+COPY etc/apt/sources.list /etc/apt/sources.list
+
 RUN apt-get update && apt-get -y install  unzip \
                         xz-utils \
                         curl \
