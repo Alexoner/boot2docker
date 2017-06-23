@@ -9,6 +9,7 @@ small ~38MB download and boots in ~5s (YMMV).
 * Kernel 4.4.73 with AUFS, Docker v17.06.0-ce-rc5 - using libcontainer
 * Container persistence via disk automount on `/var/lib/docker`
 * SSH keys persistence via disk automount
+* Capble to use USB video capture device
 
 > **Note:** Boot2Docker uses port **2376**, the [registered IANA Docker TLS
 > port](http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=docker)
