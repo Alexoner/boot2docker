@@ -1,4 +1,4 @@
-# Boot2Docker
+# Boot2Docker with webcam support!
 
 Boot2Docker is a lightweight Linux distribution made specifically to run
 [Docker](https://www.docker.com/) containers. It runs completely from RAM, is a
